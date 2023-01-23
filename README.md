@@ -9,7 +9,7 @@ In this project I ran two simulations to explore the following two questions:
 
 ## On an average day, what is the probability that the player will be successful?
 
-This question is explored in [Simulating_Daily_Win_Totals.ipynb](https://github.com/nateofspades/Game_Simulations/blob/master/Simulating_Daily_Win_Totals.ipynb). The simulation assumes that the player plays **n_games** = 100 games per day for **n_days** = 100000000 days, and that the player must win a minimum proportion of **min_prop_games_won** = 0.3551 of his or her games in a day for that day to be successful. At the bottom of the notebook you can see, **prop_days**, the proportion of successful in the simulation, for various values of **p_win_game**, the player's probability of winning a particular game independently of all other games.
+This question is explored in [Simulating_Daily_Win_Totals.ipynb](https://github.com/nateofspades/Game_Simulations/blob/master/Simulating_Daily_Win_Totals.ipynb). The simulation assumes that the player plays **n_games** = 100 games per day for **n_days** = 100000000 days, and that the player must win a minimum proportion of **min_prop_games_won** = 0.3551 of his or her games in a day for that day to be successful. At the bottom of the notebook you can see, **prop_days**, the proportion of successful days in the simulation, for various values of **p_win_game**, the player's probability of winning a particular game independently of all other games.
 
 ## On an average day, how many maximal losing streaks of various sizes should a player expect?
 
