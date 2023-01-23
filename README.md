@@ -5,7 +5,7 @@ Consider a 3-person game that is played multiple times per day. This game involv
 In this project I ran two simulations to explore the following two questions:
 
 1. **On an average day, what is the probability that the player will be successful overall?**
-2. **On an average day, how many maximal losing streaks of various sizes should a player expect to experience?**
+2. **On an average day, how many maximal losing streaks of various sizes should a player expect?**
 
 ## In a typical day, what is the probability that the player will be successful overall?
 
